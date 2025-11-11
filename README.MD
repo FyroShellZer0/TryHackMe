@@ -18,4 +18,4 @@ Welcome to my TryHackMe repo — a simple, personal log of rooms I try, techniqu
 
 ---
 
-## 📁 Recommended folder structure
+
